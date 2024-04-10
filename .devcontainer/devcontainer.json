@@ -28,7 +28,8 @@
         "codezombiech.gitignore",
         "ms-toolsai.jupyter",
         "donjayamanne.python-extension-pack",
-        "redhat.vscode-yaml"
+        "redhat.vscode-yaml",
+        "mark-tucker.aws-cli-configure"
       ],
       "settings": {
         "terminal.integrated.defaultProfile.linux": "zsh",
