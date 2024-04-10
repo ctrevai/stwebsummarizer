@@ -10,7 +10,7 @@ url = st.text_input("Enter a url")
 
 note = st.text_input("Enter a note")
 
-# url = 'https://aws.amazon.com/blogs/media/video-summarization-with-aws-artificial-intelligence-ai-and-machine-learning-ml-services/'
+#url = 'https://aws.amazon.com/blogs/media/video-summarization-with-aws-artificial-intelligence-ai-and-machine-learning-ml-services/'
 
 # URL parser
 if url:
